@@ -54,7 +54,7 @@ function projetos(section) {
 
   <!-- Imagem ilustrativa -->
   <img
-    src="./assets/projetos/geradordesenhas.png"
+    src="./assets/projetos/geradordesenhas.PNG"
     alt="Imagem do gerador de senhas"
     width="100"
     height="100"
@@ -79,7 +79,7 @@ function projetos(section) {
 
   <!-- Imagem ilustrativa -->
   <img
-    src="./assets/projetos/portifolioinsta.png"
+    src="./assets/projetos/portifolioinsta.PNG"
     alt="Imagem do gerador de senhas"
     width="100"
     height="100"

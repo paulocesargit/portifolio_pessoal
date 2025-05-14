@@ -86,6 +86,31 @@ function projetos(section) {
   />
 </div>
 <div class="card">
+  <p>
+    Site feito para restaurente de Sushi <br />
+    Desenvolvido com React e tailwind!
+  </p>
+    <path fill="none" d="M0 0H24V24H0z" />
+    <path
+      d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z"
+      fill="rgba(255,255,255,1)"
+    />
+  </svg>
+
+  <!-- Link para acessar o projeto -->
+  <a href="https://github.com/paulocesargit/Dev-Sushi.git" target="_blank">
+    Acessar o projeto.
+  </a>
+
+  <!-- Imagem ilustrativa -->
+  <img
+    src="./assets/projetos/Devsushi.jpeg"
+    alt="Imagem do portifolio para o instagram"
+    width="100"
+    height="100"
+  />
+</div>
+<div class="card">
           <p>
             Em breve outros projetos! ! <br />
           </p>

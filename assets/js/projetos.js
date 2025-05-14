@@ -98,14 +98,14 @@ function projetos(section) {
   </svg>
 
   <!-- Link para acessar o projeto -->
-  <a href="https://github.com/paulocesargit/Dev-Sushi.git" target="_blank">
+  <a href="https://www.linkedin.com/posts/paulocesar22_react-tailwindcss-vite-activity-7307760468838813699-Ylap?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAES0S_8B2yxx1eGpiQi1UlB9TdnhTd27_qY" target="_blank">
     Acessar o projeto.
   </a>
 
   <!-- Imagem ilustrativa -->
   <img
     src="./assets/projetos/devsushi.jpeg"
-    alt="Imagem do portifolio para o instagram"
+    alt="Imagem do site de sushi"
     width="100"
     height="100"
   />

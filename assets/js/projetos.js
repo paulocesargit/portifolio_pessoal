@@ -104,7 +104,7 @@ function projetos(section) {
 
   <!-- Imagem ilustrativa -->
   <img
-    src="./assets/projetos/Devsushi.jpeg"
+    src="./assets/projetos/devsushi.jpeg"
     alt="Imagem do portifolio para o instagram"
     width="100"
     height="100"
